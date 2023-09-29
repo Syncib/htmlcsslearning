@@ -1,0 +1,25 @@
+body{
+	font-family: Comic Sans MS;
+}
+
+#header-nav{
+	background-color: LightGray;
+}
+
+.row>div {
+
+	height:auto;
+}
+
+.bodd{
+	border: 1px solid black;
+	color: white;
+	background-color: gray;
+	margin: 5px;
+	padding: 5px;
+}
+
+#menuu{
+	color: black;
+	background-color: white;
+}
